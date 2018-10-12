@@ -1,0 +1,9 @@
+.bottom{
+  position: absolute;
+  left: 50%;
+  bottom: 100px;
+  transform: translateX(-50%);
+  margin: 0 auto;
+  width: 70%;
+  background: blue;
+}
